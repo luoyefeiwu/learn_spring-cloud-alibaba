@@ -9,6 +9,11 @@ spring:
       discovery:
         server-addr: 192.168.50.184:8848
 
+
+feign:
+  sentinel:
+    enabled: true
+
 management:
   endpoint:
   endpoints:
