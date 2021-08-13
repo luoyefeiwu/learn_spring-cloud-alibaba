@@ -3,17 +3,19 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+
     <parent>
-        <groupId>com.funtl</groupId>
-        <artifactId>hello-spring-cloud-alibaba-dependencies</artifactId>
+        <groupId>cn.mirrorming</groupId>
+        <artifactId>jerry-spring-cloud-alibaba-dependencies</artifactId>
         <version>1.0.0-SNAPSHOT</version>
-        <relativePath>../hello-spring-cloud-alibaba-dependencies/pom.xml</relativePath>
+        <relativePath>../jerry-spring-cloud-alibaba-dependencies/pom.xml</relativePath>
     </parent>
 
-    <artifactId>hello-spring-cloud-gateway</artifactId>
+
+    <artifactId>jerry-spring-cloud-gateway</artifactId>
     <packaging>jar</packaging>
 
-    <name>hello-spring-cloud-gateway</name>
+    <name>jerry-spring-cloud-gateway</name>
     <url>http://www.funtl.com</url>
     <inceptionYear>2018-Now</inceptionYear>
 
